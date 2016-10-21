@@ -36,8 +36,6 @@ for (i in 1:n)
   }
 }
 
-z
-
 bin.data1 <- function(x,bins)
 { # start function bin.data
   # Below lines are to check if the bins are in ascending order
