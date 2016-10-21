@@ -1,3 +1,5 @@
+# Random practice programs. All at one place.
+
 rm(list = ls())
 
 setwd('/mnt/Flex/CSUEB/Courses/F_STAT6260-RProgramming/')
