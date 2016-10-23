@@ -1,4 +1,4 @@
-# MAX SORT
+# MAX SORT OR Insertion sort
 # This program takes a maximum value from a vector and stores it in a new one. After the store it removes
 # the stored value from the vector passed to the function within it and performs the sort. 
 
