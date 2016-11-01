@@ -18,7 +18,6 @@
 # circle in local variables in.x and in.y then bind them into a matrix in.pts to return. If there are no points in a circle then   #  
 # the function will return a NULL value.                                                                                           #
 ####################################################################################################################################
-
 # Function that calculates the euclidian distance
 eucli.dist <- function(x1,x2) 
 { # start function eucli.dist
